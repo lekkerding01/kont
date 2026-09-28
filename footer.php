@@ -1,0 +1,1 @@
+<footer><div><a class="logo" href="index.php">S<span>&amp;</span>F</a><p>Een onafhankelijke fansite voor fans van Suzan &amp; Freek.</p></div><div><small>Niet officieel verbonden aan Suzan &amp; Freek.</small><br><small>© <?=date('Y')?> S&amp;F Fansite</small></div></footer>

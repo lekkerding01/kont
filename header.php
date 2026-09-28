@@ -1,0 +1,1 @@
+<header class="site-header"><a class="logo" href="index.php">S<span>&amp;</span>F</a><nav><?php foreach($nav as $key=>$item): ?><a class="<?=($page??'')===$key?'active':''?>" href="<?=$item['url']?>"><?=$item['label']?></a><?php endforeach; ?></nav><button class="menu" aria-label="Menu">☰</button></header>
